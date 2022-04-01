@@ -1,0 +1,16 @@
+.item{
+  width: calc(100%/4);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.img{
+  height: 154px;
+  margin-bottom: 45px; 
+}
+
+.text{
+  font-family: 'PT Serif';
+  text-align: center;
+}

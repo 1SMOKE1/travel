@@ -1,0 +1,25 @@
+.contentWrap{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.title{
+  margin-top: 109px;
+  font-size: 90px;
+  line-height: 109.71px;
+  font-weight: 700;
+  max-width: 525px;
+  margin-bottom: 20px;
+  margin-right: 60px;
+}
+
+.first{
+  color: var(--main-red)
+}
+
+.text{
+  font-family: 'PT Serif', sans-serif;
+  font-size: 20px;
+  line-height: 26.5px;
+}
+

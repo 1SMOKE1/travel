@@ -1,0 +1,71 @@
+.form{
+  background-color: var(--main-red);
+  min-width: 400px;
+  min-height: 520px;
+  position: relative;
+  top: 130px;
+  bottom: 20px;
+  z-index: 100;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title{
+  font-size: 22px;
+  line-height: 27px;
+  color: #fff;
+  text-align: center;
+  font-weight: 300;
+  margin-top: 27px;
+  margin-bottom: 35px;
+}
+
+.input{
+  width: 353px;
+  height: 57px;
+  font-size: 20px ;
+  line-height: 26.5px;
+  margin-bottom: 20px;
+  font-family: 'PT Serif';
+  padding-left: 18.5px;
+  border-radius: 4px;
+  border: none;
+  outline: none;
+}
+
+  ::-webkit-input-placeholder {color:#B5B5B5};
+  ::-moz-placeholder          {color:#B5B5B5;};/* Firefox 19+ */
+  :-moz-placeholder           {color:#B5B5B5;};/* Firefox 18- */
+  :-ms-input-placeholder      {color:#B5B5B5;};
+
+.checkboxwrap{
+  margin-right: 30px;
+}
+
+.label{
+  margin-left: 22.5px;
+  color: white;
+  font-family: 'PT Serif';
+}
+
+.button{
+  margin-top: 17px;
+  width: 357px;
+  height: 57px;
+  background-color: black;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 22px; 
+  font-family: 'Montserat', sans-serif;
+  cursor: pointer;
+  transition: all .3s ease;
+}
+
+.button:hover{
+  background-color: var(--main-brown);
+  color: black;
+}

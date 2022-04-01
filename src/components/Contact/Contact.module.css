@@ -1,0 +1,15 @@
+.title{
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
+  font-size: 50px;
+  line-height: 58.59px;
+  margin-bottom: 80px;
+}
+
+.content{
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+  justify-content: space-around;
+}
+

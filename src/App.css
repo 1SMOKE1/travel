@@ -1,0 +1,20 @@
+.app-wrapper{
+  background-color: #E3D5B8;
+  background-size: contain;
+  min-height: 75vh;  
+}
+
+.container{
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 15px;
+  box-sizing: content-box;
+}
+
+.red{
+  color: var(--main-red);
+}
+
+.brown{
+  color: var(--main-brown);
+}

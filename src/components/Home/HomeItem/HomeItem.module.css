@@ -1,0 +1,59 @@
+.item{
+  width: calc(99.9%/3);
+  background-color: var(--main-brown);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 400px;
+  margin-right: 20px;
+  border-radius: 4px;
+}
+
+.item:nth-last-child(){
+  margin-right: 0;
+}
+
+.cardName{
+  padding-top: 29.25px;
+  line-height: 29.15px;
+  font-size: 22px;
+  margin-bottom: 16px;
+}
+
+.cost{
+  text-transform: uppercase;
+  font-size: 60px;
+  line-height: 73.14px;
+  font-weight: 700;
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 14px;
+}
+
+.info{
+  text-align: center;
+  margin-bottom: 31px;
+}
+
+.button{
+  width: 205px;
+  height: 49px;
+  border-radius: 4px;
+  background-color: #fff;
+  border: none;
+  outline: none;
+  color: var(--main-red);
+  text-transform: uppercase;
+  font-size: 22px;
+  line-height: 26.82px;
+  transition: all .3s ease;
+  cursor: pointer;
+}
+
+.button:hover{
+  background-color: black;
+  color: #fff;
+}
+
+.breakingLine{
+  white-space: pre-line;
+}
