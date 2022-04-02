@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/travel/static/css/main.8d4b43be.css",
-    "main.js": "/travel/static/js/main.19fa2bf4.js",
+    "main.css": "/travel/static/css/main.e46fc64e.css",
+    "main.js": "/travel/static/js/main.32947687.js",
     "static/media/img_travel.jpg": "/travel/static/media/img_travel.97ad3245027302151bbf.jpg",
     "static/media/icon4.png": "/travel/static/media/icon4.eba214b3aa184f6b1498.png",
     "static/media/icon3.png": "/travel/static/media/icon3.c635c99c3407a0cd5e7b.png",
@@ -13,11 +13,12 @@
     "static/media/face_icon.png": "/travel/static/media/face_icon.f89b1af76f05ae0f575f.png",
     "static/media/icon6.png": "/travel/static/media/icon6.9b8dd6c1fc5c75493b08.png",
     "index.html": "/travel/index.html",
-    "main.8d4b43be.css.map": "/travel/static/css/main.8d4b43be.css.map",
-    "main.19fa2bf4.js.map": "/travel/static/js/main.19fa2bf4.js.map"
+    "static/media/burger_menu.svg": "/travel/static/media/burger_menu.798730c6b386d8b84dd06834f5a6e9c7.svg",
+    "main.e46fc64e.css.map": "/travel/static/css/main.e46fc64e.css.map",
+    "main.32947687.js.map": "/travel/static/js/main.32947687.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d4b43be.css",
-    "static/js/main.19fa2bf4.js"
+    "static/css/main.e46fc64e.css",
+    "static/js/main.32947687.js"
   ]
 }
